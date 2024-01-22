@@ -1,0 +1,30 @@
+.brg{
+    background-color: #444;
+    font-family: sans-serif;
+    font-weight: bold;
+}
+
+
+
+.panl{background-color:black;
+    font-family: sans-serif;
+    font-weight: bold;
+    color: white;
+}
+.col-md-4{
+    border: 5px solid black;
+    padding: 30px 0 30px 0;
+    text-align: center;
+    background-color: white;
+
+}
+.gatas{
+    background: url(../../gats.avif);
+    width: 100%;
+}
+.col-md-2{
+    border: 5px solid black;
+    padding: 30px 0 30px 0;
+    text-align: center;
+    background-color: white;
+}
